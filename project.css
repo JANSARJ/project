@@ -1,0 +1,72 @@
+.inbox1{
+    background-color: aquamarine;
+    margin: 10px 0px;
+    min-height: 500px;
+    padding: 120px;
+
+}
+.sec3{
+    background-color:aquamarine;
+}
+.inbox2{
+    text-align: center;
+    padding: 50px;
+    
+
+}
+.sec5{
+    background-color: aquamarine;
+}
+.inbox3{
+    background-color: black;
+    text-align: center;
+    padding: 100PX;
+    
+}
+.triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	border-top: 50px solid aquamarine;
+    margin-left: 50%;
+    
+   
+}
+.sec6{
+    background-color: black;
+}
+h4{
+    background-color: aliceblue;
+}
+.inbox4{
+    padding: 50px;
+
+    
+}
+.line{
+    height: 5px;
+    width: 400px;
+    background-color:white;
+}
+.src{
+    height: 300px;
+    text-align: center;
+}
+.inbox6{
+    text-align: right;
+
+}
+.inbox4{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.sec8{
+    background-color: black;
+}
+.button1{
+    border: 5px solid aqua;
+    color: rgb(11, 14, 14);
+}
